@@ -1,4 +1,4 @@
-# lightweight-distributed-ids-with-anomaly-detection
+# Lightweight Distributed Intrusion Detection System (IDS)
 
 ## Overview
 This project focuses on building a lightweight Intrusion Detection System (IDS) for IoT networks. It uses Snort for rule-based detection, Python to simulate IoT traffic, and Wireshark for analyzing packets. The goal was to create a simple and efficient system that can detect suspicious activity even in low-resource environments.
