@@ -1,0 +1,2 @@
+# The IDS and both sensor simulators are built on paho-mqtt.
+paho-mqtt>=2.1,<3
